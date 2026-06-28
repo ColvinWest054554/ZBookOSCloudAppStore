@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "store_version": "1.0.0",
+    "updated": "2026-06-28",
+    "maintainer": "ZBookZ书",
+    "project": "ZBookOSCloudStore"
+  },
+  "apps": [
+    {
+      "id": "example-app",
+      "name": "示例应用名称",
+      "author": "你的名字",
+      "version": "1.0.0",
+      "type": "tw-project",
+      "tags": ["tag1", "tag2"],
+      "icon": "https://你的域名/图标.svg",
+      "desc": "简短描述，支持中文，例如：一个很棒的应用",
+      "source": "链接",
+      "license": "GPLv3",
+      "min_zbook": "3.0"
+    }
+  ]
+}
